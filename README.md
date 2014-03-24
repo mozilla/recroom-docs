@@ -27,7 +27,10 @@
 -- on the Web
 
 # User Interface
+
 ## How to compose widgets into an App
+- Explanation of DOM, Document Fragments, Cards, Views, etc
+
 ## Widgets
 - intro to Brick
 
