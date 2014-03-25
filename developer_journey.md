@@ -11,13 +11,13 @@
 ## Developer Needs
 
 ### Discover
--**Needs:** Learn X exists.
+- **Needs:** Learn X exists.
 
--**Major Tasks:** Become interested enough to investigate further.
+- **Major Tasks:** Become interested enough to investigate further.
 
--**Goals:** *Support we could provide here is in the realm of messaging/marketing and isn't in the scope of our project(s).*
+- **Goals:** *Support we could provide here is in the realm of messaging/marketing and isn't in the scope of our project(s).*
 
--**Touchpoints:** Moz marketing
+- **Touchpoints:** Moz marketing
 
 
 ### Explore
