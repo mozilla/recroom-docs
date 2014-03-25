@@ -23,7 +23,7 @@
 ### Explore
 - **Needs:** Understand the scope and fundamentals of X. Begin working with X to get a feel for it.
 
-- *Major Tasks:** Understand how I might use X. See what X can do.
+- **Major Tasks:** Understand how I might use X. See what X can do.
 
 - **Goals:** Get the tools I need to work with X. Set up my local system to work with X. Understand the capabilities and fundamentals of X. Build a sample app. Experiment to see if X will work for what I want to do.
 
@@ -53,7 +53,7 @@
 ### Prepare
 - **Needs:** Prepare my app for launch. 
 
--* *Major Tasks:** Determine publishing option(s). Prepare my app for publication. Prepare marketing materials or activities.
+- **Major Tasks:** Determine publishing option(s). Prepare my app for publication. Prepare marketing materials or activities.
 
 - **Goals:** Understand publishing and monetization options. Make sure my app confirms to publishing and monetization requirements. Determine how I will get the message out about my app.
 
