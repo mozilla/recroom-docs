@@ -17,7 +17,7 @@
 
 - **Goals:** *Support we could provide here is in the realm of messaging/marketing and isn't in the scope of our project(s).*
 
-- **Touchpoints:** Moz marketing
+- **Touchpoints:** Tech evagelism + Hacks Blog + other Moz mktg + external (conferences, tech blogs, etc)
 
 
 ### Explore
@@ -61,13 +61,13 @@
 
 
 ### Launch
-- **Needs:** ?? 
+- **Needs:** Launch and track my app. 
 
-- **Major Tasks:** ??
+- **Major Tasks:** Publish app. 
 
-- **Goals:** ??
+- **Goals:** Get my app out into the world. Track its progress. Learn what works and what doesn't. Prepare to iterate on the app.
 
-- **Touchpoints:** ??
+- **Touchpoints:** Marketplace
 
 
 
