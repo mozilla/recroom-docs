@@ -1,6 +1,6 @@
 # RecRoom Interactions and Prototypes
 
-## [Sitemap] [1].
+## [Sitemap] [1]
 
 Sitemap is based on intial TOC for RecRoom content. [See here] [2].
 
