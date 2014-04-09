@@ -21,10 +21,10 @@ We have 3 areas of interest:
 ## Design Considerations
 - **How to build it:** This is best represented as list of steps that appears in an early, top-level section in the App Center page architecture. A checklist would be nice here.
 - **What tools to use:** RecRoom" supports this scope. It provides one-click install of tools so that developers spend less time thinking (investigating options) and more time doing (coding). RecRoom is best represented as either:
-- 1.  An early, top-level section of the App Center
-- 2.  A separate site that is linked to from MDN and App Center. Let's discuss! [link here to prototype]
-- In either case, RecRoom needs different interaction models than we're currently using in MDN.
-- Also a vanity URL would be nice in either case.
+    - An early, top-level section of the App Center
+    - A separate site that is linked to from MDN and App Center. Let's discuss! [link here to prototype]
+    - In either case, RecRoom needs different interaction models than we're currently using in MDN.
+    - Also a vanity URL would be nice in either case.
 - **Best practices for X** - RecRoom also supports this scope. However, RecRoom provides high-level recommendations. It doesn't present an exhaustive explanation for a recommendation. E.g., if we recommend using the camera in X way, we point to deeper, encyclopedic MDN content for those who want more info.
 
 ## Feedback + Maintenance Considerations
@@ -36,18 +36,18 @@ We have 3 areas of interest:
 We looked at several "competitors" to see how other tool packages present their materials. Some of these included: Google Dart, Ionic, Android Developer, Windowsphone Developer, Building FirefoxOS, ReadtheDocs, and Brick, as well as frameworks like Rails and Django.
 
 In these sites content is presented as "steps" in a process. This makes it easy for people to build knowledge in incremental ways. There's a lot of use of next/previous - the experiences are guided and, in some cases, directed (some rigidly).
-_ The best content is 
-- 1. Brief and to the point - It assumes you're there to do work (build stuff) vs "learn" something. Content is presented as bite-sized chunks (vs long pages).
-- 2. Imperative - The language tells you what to do. It doesn't include surrounding controversy or history or explanation. It links to deeper reference content for those who are interested.
-- 3. Has a POV - Doesn't dance around the fact that it is an opinion. We have a point of view based on our experience. And we're putting it out there because we think other people may find our POV useful.
-- 4. Pages are easy to scan - if you're looking for a "tip," you can find it easily because it has the same visual style throughout the site.
-- 5. Reference type content is often not displayed by default. E.g., "notes" are displayed on hover, rather than included in the page.
+The best content is 
+- Brief and to the point - It assumes you're there to do work (build stuff) vs "learn" something. Content is presented as bite-sized chunks (vs long pages).
+- Imperative - The language tells you what to do. It doesn't include surrounding controversy or history or explanation. It links to deeper reference content for those who are interested.
+- Has a POV - Doesn't dance around the fact that it is an opinion. We have a point of view based on our experience. And we're putting it out there because we think other people may find our POV useful.
+- Pages are easy to scan - if you're looking for a "tip," you can find it easily because it has the same visual style throughout the site.
+- Reference type content is often not displayed by default. E.g., "notes" are displayed on hover, rather than included in the page.
 
 Page have the same internal logic:
-- 1. What's in it for me - Why should I care about the content on this page. Often presented as a use-case or scenario. E.g., you should care about X when Y situation occurs.
-- 2. Summary of what we'll be doing on this page - we'll cover X, Y, and Z.
-- 3. Main content that is chunked in a logical order and includes headers using imperative language, e.g., "Open the file" or "Store user data."
-- 4. Concluding content that refers people to deeper content to learn more.
+- What's in it for me - Why should I care about the content on this page. Often presented as a use-case or scenario. E.g., you should care about X when Y situation occurs.
+- Summary of what we'll be doing on this page - we'll cover X, Y, and Z.
+- Main content that is chunked in a logical order and includes headers using imperative language, e.g., "Open the file" or "Store user data."
+- Concluding content that refers people to deeper content to learn more.
 
 
 
