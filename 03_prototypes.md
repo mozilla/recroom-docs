@@ -8,9 +8,7 @@ This page contains notes about the RecRoom user experience and about the IA prot
 ##<a name="ux"></a>RecRoom User Experience
 RecRoom is a stepping stone to the App Center. It's where you go first if you are just starting out with Open Web Apps.
 
-**The recommended user experience for RecRoom is that it lives on its own site.**  And is accessible from several points within the App Center and MDN. 
-
-[See reasons below](#reasons)
+**The recommended user experience for RecRoom is that it lives on its own site.**  And is accessible from several points within the App Center and MDN. [See reasons below](#reasons)
 
 For the MVP, we can fit it into the App Center temporarily if we want to do that. This is a less-than-ideal solution though that will dilute the usefulness of RecRoom. 
 
