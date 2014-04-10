@@ -26,6 +26,7 @@ For the MVP, we can fit it into the App Center temporarily if we want to do that
 
 **App Center landing page**
 - Replace Quickstart with Get Started driving to RecRoom landing page
+- Note: Existing Quickstart content will need to find a new home (or be removed?). RecRoom can link to the moved Quickstart content where it makes sense. 
 - Modify copy and links under Build block
 
 **Tools and Frameworks page**
