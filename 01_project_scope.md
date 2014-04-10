@@ -36,18 +36,18 @@ We have 3 areas of interest:
 We looked at several "competitors" to see how other tool packages present their materials. Some of these included: Google Dart, Ionic, Android Developer, Windowsphone Developer, Building FirefoxOS, ReadtheDocs, and Brick, as well as frameworks like Rails and Django.
 
 In these sites content is presented as "steps" in a process. This makes it easy for people to build knowledge in incremental ways. There's a lot of use of next/previous - the experiences are guided and, in some cases, directed (some rigidly).
-The best content is 
-- Brief and to the point - It assumes you're there to do work (build stuff) vs "learn" something. Content is presented as bite-sized chunks (vs long pages).
+The best content: 
+- Is brief and to the point - It assumes you're there to do work (build stuff) vs "learn" something. Content is presented as bite-sized chunks (vs long pages).
 - Imperative - The language tells you what to do. It doesn't include surrounding controversy or history or explanation. It links to deeper reference content for those who are interested.
 - Has a POV - Doesn't dance around the fact that it is an opinion. We have a point of view based on our experience. And we're putting it out there because we think other people may find our POV useful.
-- Pages are easy to scan - if you're looking for a "tip," you can find it easily because it has the same visual style throughout the site.
-- Reference type content is often not displayed by default. E.g., "notes" are displayed on hover, rather than included in the page.
+- Is easy to scan - if you're looking for a "tip," you can find it easily because it has the same visual style throughout the site.
+- Hides complexity while making it accessible to power (or knowledge hungry) users. So reference type content is may not be displayed by default. E.g., "notes" are displayed on hover, rather than included in the page.
 
-Page have the same internal logic:
+Content pages have the same internal logic:
 - What's in it for me - Why should I care about the content on this page. Often presented as a use-case or scenario. E.g., you should care about X when Y situation occurs.
 - Summary of what we'll be doing on this page - we'll cover X, Y, and Z.
-- Main content that is chunked in a logical order and includes headers using imperative language, e.g., "Open the file" or "Store user data."
-- Concluding content that refers people to deeper content to learn more.
+- Main content that is chunked in a logical order and includes headers using imperative language, e.g., "Open the file" or "Store user data." And/or headers that are "steps" in a process.
+- Concluding content that refers people to deeper content to learn more. No deadends.
 
 
 
